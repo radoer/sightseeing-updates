@@ -1,1 +1,1 @@
-{"version": "0.24.2", "shell": 2, "notes": "The game now checks github.com/radoer/sightseeing-updates for updates every time it starts.", "file": "Sightseeing-0.24.2.sspatch", "size": 534331}
+{"version": "0.24.3", "shell": 2, "notes": "New DOS font (Modern DOS 8x16) in the intro and the Ending A voice; version in the lower right, copyright in the lower left, ending stars in the top left of the menu; O no longer opens Options during cinematics.", "file": "Sightseeing-0.24.3.sspatch", "size": 535972}
