@@ -1,1 +1,1 @@
-{"version": "0.24.8", "shell": 2, "notes": "Options are split into panes: Display, Sound, Controls and Interface.", "file": "Sightseeing-0.24.8.sspatch", "size": 545278}
+{"version": "0.24.9", "shell": 2, "notes": "Wall textures line up across pieces (the wall over a door matches the walls beside it). The menu wall lines are drawn thicker so they stay straight. In room 5 the doorway behind you wobbles and folds into itself instead of vanishing.", "file": "Sightseeing-0.24.9.sspatch", "size": 545947}
