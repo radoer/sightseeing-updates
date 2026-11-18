@@ -1,1 +1,1 @@
-{"version": "0.24.4", "shell": 2, "notes": "Smaller version and copyright text in the menu corners.", "file": "Sightseeing-0.24.4.sspatch", "size": 535868}
+{"version": "0.24.5", "shell": 2, "notes": "The title stays on one line, and the menus, dialogue and on-screen text scale with the window size (laid out for 1600x900).", "file": "Sightseeing-0.24.5.sspatch", "size": 536111}
