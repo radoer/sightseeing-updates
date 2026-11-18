@@ -1,1 +1,1 @@
-{"version": "0.24.7", "shell": 2, "notes": "Parkour: many rooms now raise the way on high and lay a climb to it (floating slabs, pillars, crate stacks, a mix with narrow beams, or shelves up the walls). Outdoors the door stands on a floating pedestal with stones or rock pillars leading up. Every jump is an easy one at a walk.", "file": "Sightseeing-0.24.7.sspatch", "size": 545053}
+{"version": "0.24.8", "shell": 2, "notes": "Options are split into panes: Display, Sound, Controls and Interface.", "file": "Sightseeing-0.24.8.sspatch", "size": 545278}
