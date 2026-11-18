@@ -1,1 +1,1 @@
-{"version": "0.25.5", "shell": 2, "notes": "Load opens its own panel, like Options. Deleting your last save returns you to the main menu with only Find it. Key items appears only after you have finished a run. The FPS counter moved to the top-left.", "file": "Sightseeing-0.25.5.sspatch", "size": 563314}
+{"version": "0.25.6", "shell": 2, "notes": "Save rows show the total rooms visited instead of a room number and date.", "file": "Sightseeing-0.25.6.sspatch", "size": 563266}
