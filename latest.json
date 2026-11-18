@@ -1,1 +1,1 @@
-{"version": "0.25.6", "shell": 2, "notes": "Save rows show the total rooms visited instead of a room number and date.", "file": "Sightseeing-0.25.6.sspatch", "size": 563266}
+{"version": "0.25.7", "shell": 2, "notes": "Black city: the clock starts at 1:66 (126 seconds) and counts down 1:65 ... 1:00, 0:59 ... 0:00; it is now bright with a black outline so it reads against the red sky.", "file": "Sightseeing-0.25.7.sspatch", "size": 563544}
