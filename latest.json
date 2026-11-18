@@ -1,1 +1,1 @@
-{"version": "0.24.5", "shell": 2, "notes": "The title stays on one line, and the menus, dialogue and on-screen text scale with the window size (laid out for 1600x900).", "file": "Sightseeing-0.24.5.sspatch", "size": 536111}
+{"version": "0.24.6", "shell": 2, "notes": "Options: key bindings for every action (click a key, press a new one; Reset keys), invert look, brightness, show room number, run and crouch as hold or toggle. The explanation lines under the options are gone.", "file": "Sightseeing-0.24.6.sspatch", "size": 539112}
