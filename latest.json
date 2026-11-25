@@ -1,1 +1,1 @@
-{"version": "0.27.7", "shell": 4, "notes": "The glad one no longer appears in run B either: room 32 is an empty hall until Ending B is in the save", "file": "Sightseeing-0.27.7.sspatch", "size": 565680}
+{"version": "0.27.8", "shell": 4, "notes": "Save rows and the menu corner show three star notches (void, dark, white), each only once that star is collected; no empty notches", "file": "Sightseeing-0.27.8.sspatch", "size": 566029}
