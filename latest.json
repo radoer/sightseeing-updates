@@ -1,1 +1,1 @@
-{"version": "0.28.4", "shell": 4, "notes": "The mouse cursor always shows while the debug console is open", "file": "Sightseeing-0.28.4.sspatch", "size": 574954}
+{"version": "0.28.5", "shell": 4, "notes": "A pixel-art mouse cursor in the game's style: bone arrow, gold over buttons, a pixel I-beam in text", "file": "Sightseeing-0.28.5.sspatch", "size": 575771}
