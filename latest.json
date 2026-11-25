@@ -1,1 +1,1 @@
-{"version": "0.28.1", "shell": 4, "notes": "Alt+F4 works on the name screen; slower, swaying door opening with wind; two lines before the name; names are one word, letters only, up to 10", "file": "Sightseeing-0.28.1.sspatch", "size": 574728}
+{"version": "0.28.2", "shell": 4, "notes": "Door opening: no sway before the camera moves, fades into the white as it enters the doorway; long gusts of wind with a trail before the name lines and before the intro", "file": "Sightseeing-0.28.2.sspatch", "size": 574821}
